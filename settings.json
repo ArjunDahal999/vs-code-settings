@@ -1,0 +1,46 @@
+{
+    "editor.fontFamily": "Space Mono,JetBrains Mono,Brass Mono Regular",
+    "files.exclude": {
+        "": true,
+        "**/.git": false
+    },
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.env.linux": {},
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
+    "editor.formatOnSave": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "importCost.smallPackageSize":10,
+    "importCost.bundleSizeColoring": "minified",
+    "importCost.fontStyle": "oblique",
+    "importCost.bundleSizeDecoration": "both",
+    "terminal.integrated.fontFamily": "monospace",
+    "fonted.font": "Space Mono",
+    "editor.minimap.scale": 3,
+    "regionHighlighter.allowLanguageIDs": "*",
+    "regionHighlighter.defaultTheme": "Custom Theme",
+    "regionHighlighter.decorationStyle": "background",
+    "regionHighlighter.borderStyle":"double",
+    "regionHighlighter.customTheme": [
+        "#00FF001A", // bright green
+        "#32CD321A", // medium green
+        "#228B221A", // forest green
+        "#7FFF001A", // chartreuse green
+        "#ADFF2F1A"  // green yellow
+    ],
+     "vscode_custom_css.imports": [
+        "file:///home/arzun/Documents/custom-vscode.css",
+        "file:///home/arzun/Documents/vscode-script.js"
+    ],
+   
+}
